@@ -8,7 +8,7 @@ It is intentionally structured to help learners focus on CI/CD pipelines, hostin
 
 dist/ – Compiled and production-ready static files
 
-HTML
+HTML file
 
 CSS
 
